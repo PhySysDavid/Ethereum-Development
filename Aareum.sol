@@ -195,5 +195,4 @@ contract AareumToken is ERC20Interface, Owned {
      function transferAnyERC20Token(address tokenAddress, uint256 tokens) public onlyOwner returns (bool success) {
          return ERC20Interface(tokenAddress).transfer(owner, tokens);
      }
-     
  }
