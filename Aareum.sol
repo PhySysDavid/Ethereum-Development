@@ -7,11 +7,6 @@ pragma solidity >=0.4.22 <0.7.0;
 //
 // Dedicated to the preservation and advancement of life (on Earth and beyond).
 //
-// SOFTPOL
-// 
-// Acknowledging those with a passion for the Earth. Modelling and designing
-// humanity's future in space. It is time to venture from the cradle.
-//
 // Thank you to the Ethereum community.
 // 
 // ------------------------------------------------------------------------------
